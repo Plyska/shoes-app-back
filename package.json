@@ -1,0 +1,22 @@
+{
+  "name": "shoes-app-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Plyska/shoes-app-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plyska/shoes-app-back/issues"
+  },
+  "homepage": "https://github.com/Plyska/shoes-app-back#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
